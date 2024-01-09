@@ -31,6 +31,7 @@ All used data in this project is provided by UNC Chapel Hill’s Data Analytics 
 - The Resources folder contains only one file, budget_data.csv - contains two columns with data about the date and the profit/losses of that day.
 - The analysis folder contains only one file, financial_analysis.txt - a text file with the answer to each question asked printed in it.
 - main.py - contains the code used to analyze the data, answer project questions, and print the financial_analysis.txt file to the analysis folder.
+
 ************PyPoll************
 - The Resources folder contains only one file, election_data.csv - contains three columns with data on the Ballot ID of the voter, County the voter is in, and Candidate the voter voted for.
 - The analysis folder contains only one file, election_resuslts.txt - a text file with the answer to each question asked printed in it.
